@@ -1,22 +1,22 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>Tags - Thẻ - Dũng Học Giỏi</title>
-        <link>http://example.org/tags/</link>
+        <link>https://example.org/tags/</link>
         <description>Tags - Thẻ - Dũng Học Giỏi</description>
-        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 12 Oct 2022 22:29:01 &#43;0800</lastBuildDate><atom:link href="http://example.org/tags/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 12 Oct 2022 22:29:01 &#43;0800</lastBuildDate><atom:link href="https://example.org/tags/" rel="self" type="application/rss+xml" /><item>
     <title>web</title>
-    <link>http://example.org/tags/web/</link>
+    <link>https://example.org/tags/web/</link>
     <pubDate>Wed, 12 Oct 2022 22:29:01 &#43;0800</pubDate>
     <author>mấythằng.ml | Software Engineer</author>
-    <guid>http://example.org/tags/web/</guid>
+    <guid>https://example.org/tags/web/</guid>
     <description><![CDATA[]]></description>
 </item>
 <item>
     <title>cr</title>
-    <link>http://example.org/tags/cr/</link>
+    <link>https://example.org/tags/cr/</link>
     <pubDate>Sun, 08 Sep 2019 21:29:01 &#43;0800</pubDate>
     <author>mấythằng.ml | Software Engineer</author>
-    <guid>http://example.org/tags/cr/</guid>
+    <guid>https://example.org/tags/cr/</guid>
     <description><![CDATA[]]></description>
 </item>
 </channel>
