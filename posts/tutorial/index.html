@@ -34,7 +34,7 @@
                             "url": "http:\/\/example.org\/posts\/tutorial\/featured-image.png",
                             "width":  1400 ,
                             "height":  630 
-                        }],"genre": "posts","keywords": "web","wordcount":  1737 ,
+                        }],"genre": "posts","keywords": "web","wordcount":  1772 ,
         "url": "http:\/\/example.org\/posts\/tutorial\/","datePublished": "2022-10-12T22:29:01+08:00","dateModified": "2022-10-12T22:29:01+08:00","publisher": {
             "@type": "Organization",
             "name": "xxxx","logo": "http:\/\/example.org\/avatar.png"},"author": {
@@ -76,7 +76,7 @@
     <div class="toc-content always-active" id="toc-content-auto"></div>
 </div><article class="page single"><h1 class="single-title animate__animated animate__flipInX">Mình Có Một Thằng Mentor Hay Trốn Việc</h1><div class="post-meta">
         <div class="post-meta-line"><span class="post-author"><a href="https://www.facebook.com/queo.stn/" title="Author" target="_blank" rel="noopener noreffer author" class="author"><i class="fas fa-user-circle fa-fw" aria-hidden="true"></i> Dũng Học Giỏi</a></span></div>
-        <div class="post-meta-line"><i class="far fa-calendar-alt fa-fw" aria-hidden="true"></i>&nbsp;<time datetime="1228512-1029-10">1228512-1029-10</time>&nbsp;<i class="fas fa-pencil-alt fa-fw" aria-hidden="true"></i>&nbsp;1737 từ&nbsp;
+        <div class="post-meta-line"><i class="far fa-calendar-alt fa-fw" aria-hidden="true"></i>&nbsp;<time datetime="1228512-1029-10">1228512-1029-10</time>&nbsp;<i class="fas fa-pencil-alt fa-fw" aria-hidden="true"></i>&nbsp;1772 từ&nbsp;
             <i class="far fa-clock fa-fw" aria-hidden="true"></i>&nbsp;9 phút&nbsp;</div>
     </div><div class="featured-image"><img
         class="lazyload"
@@ -154,7 +154,7 @@ Nếu check thành công ta bắt đầu thôi nào.
 <br>
 ​</p>
 <h3 id="21-tạo-project">2.1 Tạo Project</h3>
-<p>Bật VSCode và mở terminal, <code>cd</code> đến nơi mà bạn mong muốn, mình sẽ  gọi folder mà các bạn sắp tạo là root folder (folder gốc) :</p>
+<p>Tạo một folder mới, mở folder này trong VSCode, mình sẽ gọi folder vừa tạo là root folder (folder gốc) :</p>
 <div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-cmd" data-lang="cmd"><span style="display:flex;"><span>&gt;&gt;&gt; hugo new site tên_muốn_đặt_cho_root_folder
 </span></span></code></pre></div><p><br>
 Tại đây, một vài folder rỗng sẽ được tạo ra, ta sẽ lấp đầy chúng trong chốt lát thôi.
@@ -182,8 +182,13 @@ Chẳng hạn, mình chọn theme Stack, các bạn có thể tham khảo theme 
 Các bạn có thể nhấn vào <strong>Demo</strong> để xem thử theme, nếu ưng ý, chạy lệnh git sau trong VSCode tại root folder :</p>
 <div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-cmd" data-lang="cmd"><span style="display:flex;"><span>&gt;&gt;&gt; <span style="color:#66d9ef">cd</span> themes
 </span></span><span style="display:flex;"><span>&gt;&gt;&gt; git clone https://github.com/CaiJimmy/hugo-theme-stack.git
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>    git clone https://github.com/url_của_theme_trên_github.git  
 </span></span></code></pre></div><p><br>
 Trường hợp xấu hơn, nếu mọi người không thể clone về được (như mình chẳng hạn 😶 do proxy công ty), hoặc thậm chí nếu bạn còn đéo biết dùng git, chỉ việc tải trực tiếp folder zip của theme đó qua nút <strong>Download</strong> trong hình.
+<br>
+<br>
+Nhưng, ai rồi cũng phải git thôi.
 <br>
 <br>
 <br>
@@ -203,7 +208,7 @@ Bạn sẽ chú ý đến một file gọi là file ⚙️config. Đây sẽ là
         </div>
     </div>
 <br>
-Dưới đây là cấu trúc cơ bản của một file config.toml (<em>đã được mình lược bớt</em>) đối với một theme bất kỳ. Có thể bạn sẽ tìm thấy nhiều file config ở các subfolder, tuỳ vào nhu cầu hiển thị của bạn nên cứ vọc vạch đi nhá.</p>
+Dưới đây là cấu trúc cơ bản của file config.toml bên trong folder <strong>📁exampleSite</strong> (<em>đã được mình lược bớt</em>). Tuỳ vào nhu cầu hiển thị của bạn nên cứ vọc vạch đi nhá.</p>
 <div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-toml" data-lang="toml"><span style="display:flex;"><span><span style="color:#a6e22e">baseURL</span> = <span style="color:#e6db74">&#34;http://example.org/&#34;</span>
 </span></span><span style="display:flex;"><span>
 </span></span><span style="display:flex;"><span><span style="color:#75715e"># Tên theme mà không giống folder theme thì nó không tìm được đâu</span>
@@ -254,18 +259,24 @@ Dưới đây là cấu trúc cơ bản của một file config.toml (<em>đã �
 <br>
 ​</p>
 <h3 id="24-khởi-chạy-trên-local">2.4 Khởi chạy trên local</h3>
-<p>Gòi, coi thử mặt mũi nó như nào.
-<br>
-<br>
-Vẫn tại root folder, chạy lệnh :</p>
+<p>Ban nãy, khi bạn tạo ra các folder rỗng bên trong root folder, một file config cũng được tạo ra, nhớ thêm vào file này dòng <code>theme = 'tên_folder_theme'</code> nhé. Sau đó :</p>
 <div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-cmd" data-lang="cmd"><span style="display:flex;"><span>&gt;&gt;&gt; hugo server
 </span></span></code></pre></div><p><br>
+<br>
 Truy cập vào <code>http://localhost:1313</code>.
 <br>
 <br>
-Hmm
-<br>
-<br>
+Gòi, coi thử mặt mũi nó như nào.
+<figure><a class="lightgallery" href="/posts/tutorial/blank_site.png" title="Sao trống hoác thế" data-thumbnail="/posts/tutorial/blank_site.png" data-sub-html="<h2>Hmm, tại sao trông nó như bình địa vậy.</h2><p>Sao trống hoác thế</p>">
+        <img
+            class="lazyload"
+            src="/svg/loading.min.svg"
+            data-src="/posts/tutorial/blank_site.png"
+            data-srcset="/posts/tutorial/blank_site.png, /posts/tutorial/blank_site.png 1.5x, /posts/tutorial/blank_site.png 2x"
+            data-sizes="auto"
+            alt="/posts/tutorial/blank_site.png" width="1609" height="889" />
+    </a><figcaption class="image-caption">Hmm, tại sao trông nó như bình địa vậy.</figcaption>
+    </figure>
 <br>
 <br>
 Để xem thử một website hoàn chỉnh, chúng ta sẽ ghé sang  <strong>📁exampleSite</strong> (một subfoler bên trong theme các bạn vừa clone về), chính là trang web mà mọi người thấy khi nhấn vào nút <strong>Demo</strong> ban nãy. Thử lại phát nào :</p>
@@ -274,14 +285,14 @@ Hmm
 </span></span></code></pre></div><p><br>
 Và..
 ​</p>
-<p><figure><a class="lightgallery" href="/posts/tutorial/examplesite.png" title="exampleSite của theme Stack" data-thumbnail="/posts/tutorial/examplesite.png" data-sub-html="<h2>Voilà! exampleSite của theme Stack</h2><p>exampleSite của theme Stack</p>">
+<p><figure><a class="lightgallery" href="/posts/tutorial/example_site.png" title="exampleSite của theme Stack" data-thumbnail="/posts/tutorial/example_site.png" data-sub-html="<h2>Voilà! exampleSite của theme Stack</h2><p>exampleSite của theme Stack</p>">
         <img
             class="lazyload"
             src="/svg/loading.min.svg"
-            data-src="/posts/tutorial/examplesite.png"
-            data-srcset="/posts/tutorial/examplesite.png, /posts/tutorial/examplesite.png 1.5x, /posts/tutorial/examplesite.png 2x"
+            data-src="/posts/tutorial/example_site.png"
+            data-srcset="/posts/tutorial/example_site.png, /posts/tutorial/example_site.png 1.5x, /posts/tutorial/example_site.png 2x"
             data-sizes="auto"
-            alt="/posts/tutorial/examplesite.png" width="1568" height="898" />
+            alt="/posts/tutorial/example_site.png" width="1568" height="898" />
     </a><figcaption class="image-caption">Voilà! exampleSite của theme Stack</figcaption>
     </figure></p>
 <p><div class="details admonition warning open">
@@ -624,7 +635,8 @@ Tất cả file bên trong <strong>📁public</strong> lúc này đã được �
 <p><br>
 <br>
 ​</p>
-<h3 id="52-lụm-domain">5.2 Lụm domain</h3></div><div class="post-footer" id="post-footer">
+<h3 id="52-lụm-domain">5.2 Lụm domain</h3>
+<p>Chờ tẹo, mình chưa hiểu khúc này nên chưa lùa gà được.</p></div><div class="post-footer" id="post-footer">
     <div class="post-info">
         <div class="post-info-line">
             <div class="post-info-mod">
@@ -650,7 +662,7 @@ Tất cả file bên trong <strong>📁public</strong> lúc này đã được �
 </article></div>
             </main><footer class="footer">
         <div class="footer-container"><div class="footer-line">Ò e
-                </div><div class="footer-line" itemscope itemtype="http://schema.org/CreativeWork"><span class="author" itemprop="copyrightHolder">&nbsp;<a href="/" target="_blank">Mấy thằng ml | Software Engineer</a></span></div>
+                </div><div class="footer-line" itemscope itemtype="http://schema.org/CreativeWork"><span class="author" itemprop="copyrightHolder">&nbsp;<a href="/" target="_blank">mấythằng.ml | Software Engineer</a></span></div>
         </div>
     </footer></div>
 
