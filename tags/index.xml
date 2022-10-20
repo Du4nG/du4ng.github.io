@@ -4,6 +4,14 @@
         <link>https://example.org/tags/</link>
         <description>Tags - Thẻ - Dũng Học Giỏi</description>
         <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 12 Oct 2022 22:29:01 &#43;0800</lastBuildDate><atom:link href="https://example.org/tags/" rel="self" type="application/rss+xml" /><item>
+    <title>tut</title>
+    <link>https://example.org/tags/tut/</link>
+    <pubDate>Wed, 12 Oct 2022 22:29:01 &#43;0800</pubDate>
+    <author>mấythằng.ml | Software Engineer</author>
+    <guid>https://example.org/tags/tut/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
     <title>web</title>
     <link>https://example.org/tags/web/</link>
     <pubDate>Wed, 12 Oct 2022 22:29:01 &#43;0800</pubDate>
