@@ -2,103 +2,103 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>bbtd</title>
-    <link>http://localhost:1313/</link>
+    <link>https://du4ng.github.io/</link>
     <description>Recent content on bbtd</description>
     <image>
       <title>bbtd</title>
-      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://du4ng.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://du4ng.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 01 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 01 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://du4ng.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Viet Kieu</title>
-      <link>http://localhost:1313/posts/diaspora/</link>
+      <link>https://du4ng.github.io/posts/diaspora/</link>
       <pubDate>Mon, 25 Dec 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/diaspora/</guid>
+      <guid>https://du4ng.github.io/posts/diaspora/</guid>
       <description>has arrived.</description>
     </item>
     
     <item>
       <title>LIMBO</title>
-      <link>http://localhost:1313/posts/limbo/</link>
+      <link>https://du4ng.github.io/posts/limbo/</link>
       <pubDate>Thu, 03 Aug 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/limbo/</guid>
+      <guid>https://du4ng.github.io/posts/limbo/</guid>
       <description>Egg of the Perfect World</description>
     </item>
     
     <item>
       <title>Doggo</title>
-      <link>http://localhost:1313/posts/doggo/</link>
+      <link>https://du4ng.github.io/posts/doggo/</link>
       <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/doggo/</guid>
+      <guid>https://du4ng.github.io/posts/doggo/</guid>
       <description>Two blond fat ass bitches</description>
     </item>
     
     <item>
       <title>Bullet</title>
-      <link>http://localhost:1313/posts/bullet/</link>
+      <link>https://du4ng.github.io/posts/bullet/</link>
       <pubDate>Sat, 14 Mar 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/bullet/</guid>
+      <guid>https://du4ng.github.io/posts/bullet/</guid>
       <description>Đạn và thuốc</description>
     </item>
     
     <item>
       <title>アニメ</title>
-      <link>http://localhost:1313/posts/anime/</link>
+      <link>https://du4ng.github.io/posts/anime/</link>
       <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/anime/</guid>
+      <guid>https://du4ng.github.io/posts/anime/</guid>
       <description>奥深いプロット</description>
     </item>
     
     <item>
       <title>Giải mã AUTOSAR</title>
-      <link>http://localhost:1313/posts/autosar/</link>
+      <link>https://du4ng.github.io/posts/autosar/</link>
       <pubDate>Sat, 06 May 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/autosar/</guid>
+      <guid>https://du4ng.github.io/posts/autosar/</guid>
       <description>Kiến trúc tiêu chuẩn ngành Automotive</description>
     </item>
     
     <item>
       <title>Capture The Flag</title>
-      <link>http://localhost:1313/posts/ctf/</link>
+      <link>https://du4ng.github.io/posts/ctf/</link>
       <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/ctf/</guid>
+      <guid>https://du4ng.github.io/posts/ctf/</guid>
       <description>Cướp cờ.</description>
     </item>
     
     <item>
       <title>Open Source SSG</title>
-      <link>http://localhost:1313/posts/tutorial/</link>
+      <link>https://du4ng.github.io/posts/tutorial/</link>
       <pubDate>Mon, 10 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/tutorial/</guid>
+      <guid>https://du4ng.github.io/posts/tutorial/</guid>
       <description>Kiến trúc tiêu chuẩn ngành Automotive</description>
     </item>
     
     <item>
       <title>Chuyện đi thi</title>
-      <link>http://localhost:1313/posts/driving/</link>
+      <link>https://du4ng.github.io/posts/driving/</link>
       <pubDate>Sat, 17 Sep 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/driving/</guid>
+      <guid>https://du4ng.github.io/posts/driving/</guid>
       <description>cảm lạnh.</description>
     </item>
     
     <item>
       <title>Gears</title>
-      <link>http://localhost:1313/posts/gear/</link>
+      <link>https://du4ng.github.io/posts/gear/</link>
       <pubDate>Sun, 03 Oct 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/gear/</guid>
+      <guid>https://du4ng.github.io/posts/gear/</guid>
       <description>that I&amp;#39;m using.</description>
     </item>
     
