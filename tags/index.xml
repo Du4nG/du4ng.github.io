@@ -2,67 +2,67 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on bbtd</title>
-    <link>https://du4ng.github.io/tags/</link>
+    <link>http://localhost:1313/tags/</link>
     <description>Recent content in Tags on bbtd</description>
     <image>
       <title>bbtd</title>
-      <url>https://du4ng.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://du4ng.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 25 Dec 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://du4ng.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 25 Dec 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Narrative</title>
-      <link>https://du4ng.github.io/tags/narrative/</link>
+      <link>http://localhost:1313/tags/narrative/</link>
       <pubDate>Mon, 25 Dec 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://du4ng.github.io/tags/narrative/</guid>
+      <guid>http://localhost:1313/tags/narrative/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Soul</title>
-      <link>https://du4ng.github.io/tags/soul/</link>
+      <link>http://localhost:1313/tags/soul/</link>
       <pubDate>Thu, 03 Aug 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://du4ng.github.io/tags/soul/</guid>
+      <guid>http://localhost:1313/tags/soul/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Software</title>
-      <link>https://du4ng.github.io/tags/software/</link>
+      <link>http://localhost:1313/tags/software/</link>
       <pubDate>Sat, 06 May 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://du4ng.github.io/tags/software/</guid>
+      <guid>http://localhost:1313/tags/software/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ctf</title>
-      <link>https://du4ng.github.io/tags/ctf/</link>
+      <link>http://localhost:1313/tags/ctf/</link>
       <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://du4ng.github.io/tags/ctf/</guid>
+      <guid>http://localhost:1313/tags/ctf/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Web</title>
-      <link>https://du4ng.github.io/tags/web/</link>
+      <link>http://localhost:1313/tags/web/</link>
       <pubDate>Mon, 10 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://du4ng.github.io/tags/web/</guid>
+      <guid>http://localhost:1313/tags/web/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Introspect</title>
-      <link>https://du4ng.github.io/tags/introspect/</link>
+      <link>http://localhost:1313/tags/introspect/</link>
       <pubDate>Sat, 14 Mar 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://du4ng.github.io/tags/introspect/</guid>
+      <guid>http://localhost:1313/tags/introspect/</guid>
       <description></description>
     </item>
     

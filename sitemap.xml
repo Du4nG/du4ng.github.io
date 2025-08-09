@@ -2,63 +2,63 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://du4ng.github.io/posts/diaspora/</loc>
+    <loc>http://localhost:1313/posts/diaspora/</loc>
     <lastmod>2023-12-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://du4ng.github.io/posts/limbo/</loc>
+    <loc>http://localhost:1313/posts/limbo/</loc>
     <lastmod>2023-08-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://du4ng.github.io/posts/doggo/</loc>
+    <loc>http://localhost:1313/posts/doggo/</loc>
     <lastmod>2021-02-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://du4ng.github.io/posts/bullet/</loc>
+    <loc>http://localhost:1313/posts/bullet/</loc>
     <lastmod>2020-03-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://du4ng.github.io/posts/anime/</loc>
+    <loc>http://localhost:1313/posts/anime/</loc>
     <lastmod>2020-02-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://du4ng.github.io/posts/autosar/</loc>
+    <loc>http://localhost:1313/posts/autosar/</loc>
     <lastmod>2023-05-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://du4ng.github.io/posts/ctf/</loc>
+    <loc>http://localhost:1313/posts/ctf/</loc>
     <lastmod>2023-05-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://du4ng.github.io/posts/tutorial/</loc>
+    <loc>http://localhost:1313/posts/tutorial/</loc>
     <lastmod>2022-10-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://du4ng.github.io/posts/driving/</loc>
+    <loc>http://localhost:1313/posts/driving/</loc>
     <lastmod>2022-09-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://du4ng.github.io/posts/gear/</loc>
+    <loc>http://localhost:1313/posts/gear/</loc>
     <lastmod>2021-10-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://du4ng.github.io/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2025-03-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://du4ng.github.io/posts/</loc>
+    <loc>http://localhost:1313/posts/</loc>
     <lastmod>2025-03-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://du4ng.github.io/tags/narrative/</loc>
+    <loc>http://localhost:1313/tags/narrative/</loc>
     <lastmod>2023-12-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://du4ng.github.io/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2023-12-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://du4ng.github.io/tags/soul/</loc>
+    <loc>http://localhost:1313/tags/soul/</loc>
     <lastmod>2023-08-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://du4ng.github.io/tags/software/</loc>
+    <loc>http://localhost:1313/tags/software/</loc>
     <lastmod>2023-05-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://du4ng.github.io/tags/ctf/</loc>
+    <loc>http://localhost:1313/tags/ctf/</loc>
     <lastmod>2023-05-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://du4ng.github.io/tags/web/</loc>
+    <loc>http://localhost:1313/tags/web/</loc>
     <lastmod>2022-10-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://du4ng.github.io/tags/introspect/</loc>
+    <loc>http://localhost:1313/tags/introspect/</loc>
     <lastmod>2020-03-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://du4ng.github.io/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
   </url>
 </urlset>
