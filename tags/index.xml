@@ -9,62 +9,51 @@
       <url>https://du4ng.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://du4ng.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo -- 0.148.2</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 25 Dec 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://du4ng.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 25 Dec 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://du4ng.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Narrative</title>
       <link>https://du4ng.github.io/tags/narrative/</link>
       <pubDate>Mon, 25 Dec 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://du4ng.github.io/tags/narrative/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Soul</title>
       <link>https://du4ng.github.io/tags/soul/</link>
       <pubDate>Thu, 03 Aug 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://du4ng.github.io/tags/soul/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Software</title>
       <link>https://du4ng.github.io/tags/software/</link>
       <pubDate>Sat, 06 May 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://du4ng.github.io/tags/software/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Ctf</title>
       <link>https://du4ng.github.io/tags/ctf/</link>
       <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://du4ng.github.io/tags/ctf/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Web</title>
       <link>https://du4ng.github.io/tags/web/</link>
       <pubDate>Mon, 10 Oct 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://du4ng.github.io/tags/web/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Introspect</title>
       <link>https://du4ng.github.io/tags/introspect/</link>
       <pubDate>Sat, 14 Mar 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://du4ng.github.io/tags/introspect/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>
