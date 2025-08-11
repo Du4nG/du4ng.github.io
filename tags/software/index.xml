@@ -14,6 +14,13 @@
     <lastBuildDate>Sat, 06 May 2023 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://du4ng.github.io/tags/software/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Gears</title>
+      <link>https://du4ng.github.io/posts/gear/</link>
+      <pubDate>Sun, 03 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://du4ng.github.io/posts/gear/</guid>
+      <description>that I&amp;#39;m using.</description>
+    </item>
+    <item>
       <title>Giải mã AUTOSAR</title>
       <link>https://du4ng.github.io/posts/autosar/</link>
       <pubDate>Sat, 06 May 2023 00:00:00 +0000</pubDate>
@@ -33,13 +40,6 @@
       <pubDate>Mon, 10 Oct 2022 00:00:00 +0000</pubDate>
       <guid>https://du4ng.github.io/posts/tutorial/</guid>
       <description>Kiến trúc tiêu chuẩn ngành Automotive</description>
-    </item>
-    <item>
-      <title>Gears</title>
-      <link>https://du4ng.github.io/posts/gear/</link>
-      <pubDate>Sun, 03 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>https://du4ng.github.io/posts/gear/</guid>
-      <description>that I&amp;#39;m using.</description>
     </item>
   </channel>
 </rss>
