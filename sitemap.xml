@@ -2,6 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://du4ng.github.io/posts/diaspora_2/</loc>
+    <lastmod>2026-01-16T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://du4ng.github.io/posts/diaspora/</loc>
     <lastmod>2023-12-25T00:00:00+00:00</lastmod>
   </url><url>
@@ -38,17 +41,17 @@
     <loc>https://du4ng.github.io/</loc>
     <lastmod>2026-01-16T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://du4ng.github.io/tags/narrative/</loc>
+    <lastmod>2026-01-16T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://du4ng.github.io/posts/</loc>
+    <lastmod>2026-01-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://du4ng.github.io/tags/</loc>
     <lastmod>2026-01-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://du4ng.github.io/tags/introspect/</loc>
     <lastmod>2024-04-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://du4ng.github.io/tags/</loc>
-    <lastmod>2024-04-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://du4ng.github.io/tags/narrative/</loc>
-    <lastmod>2023-12-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://du4ng.github.io/tags/soul/</loc>
     <lastmod>2023-08-03T00:00:00+00:00</lastmod>
